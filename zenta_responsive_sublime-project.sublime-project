@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/Yoshinori/Dropbox/smaple"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/Yoshinori/Desktop/test"
+		}
+	]
+}

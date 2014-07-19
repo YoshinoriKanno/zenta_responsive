@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+/* color */
+.c-org {color: #FF6600;}
+.red { color: red; }
+/* /color */
+
+/* display */
+.d-n { display: none; }
+/* /display */
+
+/* margin */
+.mb10 { margin-bottom: 10px; }
+.mb15 { margin-bottom: 15px; }
+.mb25 { margin-bottom: 25px; }
+/* /margin */
+
+/* padding */
+.pt15 { padding-top: 15px; }
+/* /padding */
+
+/* float */
+.fll { float: left; }
+.flr { float: right; }
+/* /float */

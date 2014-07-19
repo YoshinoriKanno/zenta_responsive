@@ -1,0 +1,356 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mo",
+				"mock/"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"in",
+				"inherit"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Yoshinori/Desktop/test/config.rb",
+			"settings":
+			{
+				"buffer_size": 904,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 551.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Yoshinori/Desktop/test/common/css/test.scss",
+		"/Users/Yoshinori/Desktop/test/config.rb",
+		"/Users/Yoshinori/Desktop/test/sass.command",
+		"/Users/Yoshinori/Desktop/test/test.css",
+		"/Users/Yoshinori/Desktop/test/test.scss",
+		"/Users/Yoshinori/Desktop/sass.command",
+		"/Users/Yoshinori/Desktop/test/text.scss",
+		"/Users/Yoshinori/Desktop/test/text.scsss",
+		"/Users/Yoshinori/Dropbox/smaple/common/css/style.css",
+		"/Users/Yoshinori/Dropbox/ウェブ製作/フリーライター椎名前田さま/wrk/html/responsive/scss/style.scss",
+		"/Users/Yoshinori/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Yoshinori/Dropbox/ウェブ製作/フリーライター椎名前田さま/wrk/html/responsive/css/initialize.css",
+		"/Users/Yoshinori/Dropbox/ウェブ製作/フリーライター椎名前田さま/wrk/html/responsive/config.rb",
+		"/Users/Yoshinori/Dropbox/smaple/common/css/style.scss",
+		"/Users/Yoshinori/Dropbox/smaple/config.rb",
+		"/Users/Yoshinori/Dropbox/ウェブ製作/フリーライター椎名前田さま/wrk/html/responsive/README.txt",
+		"/Users/Yoshinori/Dropbox/ウェブ製作/フリーライター椎名前田さま/wrk/html/responsive/css/style.css",
+		"/Users/Yoshinori/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Yoshinori/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Yoshinori/Dropbox/smaple/common/css/style.sass",
+		"/Users/Yoshinori/Dropbox/smaple/common/css/style.sass.scss",
+		"/Users/Yoshinori/Dropbox/ウェブ製作/フリーライター椎名前田さま/wrk/html/responsive/css/properties.css",
+		"/Users/Yoshinori/Dropbox/ウェブ製作/フリーライター椎名前田さま/wrk/html/responsive/sftp-config.json",
+		"/Users/Yoshinori/Dropbox/ウェブ製作/フリーライター椎名前田さま/wrk/html/responsive/css/html5-doctor-reset-stylesheet.min.css",
+		"/Users/Yoshinori/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Yoshinori/Library/Application Support/Sublime Text 3/Packages/Browser Refresh/Default (OSX).sublime-keymap",
+		"/Users/Yoshinori/Dropbox/ウェブ製作/フリーライター椎名前田さま/wrk/html/dev/wake.html",
+		"/Users/Yoshinori/Dropbox/ウェブ製作/フリーライター椎名前田さま/wrk/html/dev/works.20140511.html",
+		"/Users/Yoshinori/Dropbox/ウェブ製作/フリーライター椎名前田さま/wrk/html/dev/works.html.20140511",
+		"/Users/Yoshinori/Dropbox/ウェブ製作/フリーライター椎名前田さま/wrk/html/dev/works.html",
+		"/Users/Yoshinori/Dropbox/ウェブ製作/フリーライター椎名前田さま/wrk/html/responsive/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"c",
+			"translate",
+			"tab_size",
+			"tab_seze",
+			"tab",
+			"*/\n",
+			"ing 2",
+			"unit1",
+			"mock",
+			"#fff",
+			"27",
+			"あなた",
+			"10px",
+			"pos",
+			"f00",
+			"#0",
+			"#00f",
+			"80",
+			"あなたの",
+			"80",
+			"p>",
+			">あ",
+			"h",
+			"w",
+			"bgc",
+			"bgcc",
+			"家電",
+			"-->\n",
+			"家電"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Yoshinori/Desktop/test/config.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 904,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close"
+							],
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"project": "zenta_responsive_sublime-project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
