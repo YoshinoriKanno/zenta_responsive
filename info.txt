@@ -1,402 +1,394 @@
-<body>
 <div id="info0"><ul><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=shift_jis" />
-<title>�t���[���C�^�[�Ŗ��O��</title>
-<meta name="Keywords" content="�Z��,�t���[���C�^�[,�Ŗ��O��" />
-<meta name="Description" content="�Z��E���m�I�уR���T���^���g���t���[���C�^�[�Ŗ��O��" />
-<meta name="robots" content="index,follow" />
-<link href="css/info.css" rel="stylesheet" type="text/css" />
-</head>
 
 
 
 
-<!--���m�点�̍X�V�ŏC�����K�v�Ȃ̂͂����̕������� -->
+
+<!--お知らせの更新で修正が必要なのはここの部分から -->
 
 <li>
 <span class="date">14.8.06</span>
 <a href="http://kaden.iehikaku.com/article/403241910.html" target="_blank">
-�X���g �R�A�ƃ��h�E�F�U�[lad004���r���܂����I
+スント コアとラドウェザーlad004を比較しました！
 </a>
 </li>
 
 <li>
 <span class="date">14.8.01</span>
 <a href="http://dog.iehikaku.com/article/403016305.html" target="_blank">
-�J���b�N�u�n�h�\���v�ő�^���Ɠ߉ϐ���c�[�����O�I
+カヤック「ハドソン」で大型犬と那珂川をツーリング！
 </a>
 </li>
 
 <li>
 <span class="date">14.8.01</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2014-08-01" target="_blank">
-�l���Ǝ傪�Z��[�����؊����A�ԍς�����3��5000�~���ɁI
+個人事業主が住宅ローンを借換え、返済が毎月3万5000円減に！
 </a>
 </li>
 
 <li>
 <span class="date">14.7.03</span>
 <a href="http://iehikaku.com/article/400863039.html" target="_blank">
-2013�N�x���n�E�X���[�J�[�̔��ː������L���O
+2013年度大手ハウスメーカー販売戸数ランキング
 </a>
 </li>
 
 <li>
 <span class="date">14.6.20</span>
 <a href="http://iehikaku.com/article/399913689.html" target="_blank">
-�w�[�x���n�E�X�����U���u��W���̗p�I
+ヘーベルハウスが制振装置を標準採用！
 </a>
 </li>
 
 <li>
 <span class="date">14.6.10</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2014-06-10" target="_blank">
-�A�E�f�B�f�B�[���[�̑Ή��͏ꏊ�ɂ���đ�Ⴂ�I
+アウディディーラーの対応は場所によって大違い！
 </a>
 </li>
 
 <li>
 <span class="date">14.6.06</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2014-06-06" target="_blank">
-2013�N�x���n�E�X���[�J�[�ؒP�������L���O�@��������90���~�I�H
+2013年度大手ハウスメーカー坪単価ランキング　もうすぐ90万円！？
 </a>
 </li>
 
 <li>
 <span class="date">14.6.02</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2014-06-02" target="_blank">
-�A�E�f�B�̃f�B�[���[�Ή��͂�����Ǝc�O�ł���
+アウディのディーラー対応はちょっと残念でした
 </a>
 </li>
 
 <li>
 <span class="date">14.5.26</span>
 <a href="http://kaden.iehikaku.com/article/397564907.html" target="_blank">
-�d�����u���V��r�@1000�~�䂩��2���~�܂ŁB���|�I�Ⴂ�ɋ����I
+電動歯ブラシ比較　1000円台から2万円まで。圧倒的違いに驚き！
 </a>
 </li>
 
 <li>
 <span class="date">14.5.22</span>
 <a href="http://kaden.iehikaku.com/article/396000448.html" target="_blank">
-�����V���œd�C�V�F�[�o�[�̑I�ѕ��ɂ��ăR�����g���܂����I�@
+朝日新聞で電気シェーバーの選び方についてコメントしました！　
 </a>
 </li>
 
 <li>
 <span class="date">14.5.09</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2014-05-09" target="_blank">
-�͂��߂Ē����Z������Ă�l�̕��ω��i�E�N���E���ʐρ@
+はじめて注文住宅を建てる人の平均価格・年収・床面積　
 </a>
 </li>
 
 <li>
 <span class="date">14.5.07</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2014-05-07" target="_blank">
-�A�E�f�BTT�N�[�y�ɂ̓T�[�t�{�[�h�Ƒ�^��������܂��B�@
+アウディTTクーペにはサーフボードと大型犬が入ります。　
 </a>
 </li>
 
 <li>
 <span class="date">14.5.01</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2014-05-01" target="_blank">
-�䂪�ϐ��n�E�X�͒z10�N�ŕs����ڗ��悤�ɂȂ�܂����B�@
+我が積水ハウスは築10年で不具合が目立つようになりました。　
 </a>
 </li>
 
 <li>
 <span class="date">14.4.23</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2014-04-23" target="_blank">
-�ϐ��n�E�X��10kW�����z���p�l���Z��𔭔��B�Œ艿�i���搧�x�Ƃ́H�@
+積水ハウスが10kW超太陽光パネル住宅を発売。固定価格買取制度とは？　
 </a>
 </li>
 
 <li>
 <span class="date">14.4.22</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2014-04-22" target="_blank">
-�|�[�^�u���i�rGP 735VD(�S�����j��YPF7300�i�C�G���j��O���r�I
+ポータブルナビGP 735VD(ゴリラ）とYPF7300（イエラ）を徹底比較！
 </a>
 </li>
 
 <li>
 <span class="date">14.4.08</span>
 <a href="http://kaden.iehikaku.com/article/394142478.html" target="_blank">
-���ɂ̂��߃��[�L���O�`�F�A�u�R���e�b�T�v�𔃂��܂����I
+腰痛のためワーキングチェア「コンテッサ」を買いました！
 </a>
 </li>
 
 <li>
 <span class="date">14.4.07</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2014-04-07" target="_blank">
-TBS�e���r�u�����`�����I�v�ɃV�F�A�n�E�X�l�^�ŏo�����܂��I
+TBSテレビ「あさチャン！」にシェアハウスネタで出演します！
 </a>
 </li>
 
 <li>
 <span class="date">14.3.28</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2014-03-28" target="_blank">
-�Z��[���؂芷�����ߏZ�MSBI�ɓd�b���Ă݂܂����I
+住宅ローン借り換えため住信SBIに電話してみました！
 </a>
 </li>
 
 <li>
 <span class="date">14.3.28</span>
 <a href="http://kaden.iehikaku.com/article/391956784.html" target="_blank">
-���x�v�����[�v�X���g �R�A���g�p�P���ڂŌ̏�I
+高度計＆水深計スント コアが使用１日目で故障！
 </a>
 </li>
 
 <li>
 <span class="date">14.3.27</span>
 <a href="http://iehikaku.com/article/392715309.html" target="_blank">
-2013�N���n�E�X���[�J�[�N�������L���O�I
+2013年大手ハウスメーカー年収ランキング！
 </a>
 </li>
 
 <li>
 <span class="date">14.3.24</span>
 <a href="http://iehikaku.com/article/392517243.html" target="_blank">
-�ϐ��n�E�X���ŐV�H�@�ɓ��� �uNewB�V�X�e���v��
+積水ハウスが最新工法に統一 「NewBシステム」に
 </a>
 </li>
 
 <li>
 <span class="date">14.3.03</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2014-03-03" target="_blank">
-�Z��[���̎؂芷���������I�@�R�����ʂ�����Ƃ́H
+住宅ローンの借り換えを検討！　審査が通る条件とは？
 </a>
 </li>
 
 <li>
 <span class="date">14.2.28</span>
 <a href="http://iehikaku.com/article/389963192.html" target="_blank">
-�W�[���H�������L�O�Ō��z����z�ɂȂ�L�����y�[���J�Ò��I
+ジーヴォΣ発売記念で建築費が半額になるキャンペーン開催中！
 </a>
 </li>
 
 <li>
 <span class="date">14.2.27</span>
 <a href="http://dog.iehikaku.com/article/389927900.html" target="_blank">
-���A��X�m�[�g���b�L���Oat�x�m���p�m���}���]�[�g�i�o���ҁj
+犬連れスノートレッキングat富士見パノラマリゾート（登頂編）
 </a>
 </li>
 
 <li>
 <span class="date">14.2.25</span>
 <a href="http://dog.iehikaku.com/article/389767039.html" target="_blank">
-���A��X�m�[�g���b�L���Oat�x�m���p�m���}���]�[�g�i�X�^�[�g�ҁj
+犬連れスノートレッキングat富士見パノラマリゾート（スタート編）
 </a>
 </li>
 
 <li>
 <span class="date">14.2.15</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2014-02-15" target="_blank">
-�Z��[���̎؂芷���������I�@���݋����R�D�Q�V���E�E�E�B
+住宅ローンの借り換えを検討！　現在金利３．２７％・・・。
 </a>
 </li>
 
 <li>
 <span class="date">14.2.08</span>
 <a href="http://kaden.iehikaku.com/article/387685789.html" target="_blank">
-2014�d�C�V�F�[�o�[��r�E�ŋ��[��聕�����@��̓R�����I
+2014電気シェーバー比較・最強深剃り＆早剃り機種はコレだ！
 </a>
 </li>
 
 <li>
 <span class="date">14.2.03</span>
 <a href="http://iehikaku.com/article/386864175.html" target="_blank">
-����ő��Ō�ł����������ȏZ��Ƃ́I�H
+消費税増税後でもお買い得な住宅とは！？
 </a>
 </li>
 
 <li>
 <span class="date">14.1.06</span>
 <a href="http://dog.iehikaku.com/article/384470451.html" target="_blank">
-�C�I�����[�������V�s�S�̖����h�b�O�����ɍs���Ă��܂����I
+イオンモール幕張新都心の無料ドッグランに行ってきました！
 </a>
 </li>
 
 <li>
 <span class="date">14.1.05</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2014-01-05" target="_blank">
-�A���t�@�[�h�n�C�u���b�h�̃G���W���x�������_�����܂����B
+アルファードハイブリッドのエンジン警告灯が点灯しました。
 </a>
 </li>
 
 <li>
 <span class="date">13.12.30</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2013-12-30" target="_blank">
-2013�N�x�㔼���n�E�X���[�J�[�ؒP�������L���O�I
+2013年度上半期ハウスメーカー坪単価ランキング！
 </a>
 </li>
 
 <li>
 <span class="date">13.12.05</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2013-12-05" target="_blank">
-��Ԃ�BMW�V�U�OLi�I�@���̉��������S�n�́H
+代車がBMW７６０Li！　その加速＆乗り心地は？
 </a>
 </li>
 
 <li>
 <span class="date">13.12.04</span>
 <a href="http://kaden.iehikaku.com/article/381860485.html" target="_blank">
-�ŐV�[���E�����d�C�V�F�[�o�[�����ؒ��ł��I
+最新深剃り・早剃り電気シェーバーを検証中です！
 </a>
 </li>
 
 <li>
 <span class="date">13.11.15</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2013-11-15" target="_blank">
-�n�E�X���[�J�[�R����L���O�I �{���ɒg�����Ƃ͂ǂꂾ�H
+ハウスメーカー燃費ランキング！ 本当に暖かい家はどれだ？
 </a>
 </li>
 
 <li>
 <span class="date">13.11.15</span>
 <a href="http://iehikaku.com/article/380284827.html" target="_blank">
-���}�z�[���Y�ɉJ�R��I ���̏C�U��́H
+東急ホームズに雨漏り！ その修繕費は？
 </a>
 </li>
 
 <li>
 <span class="date">13.10.24</span>
 <a href="http://iehikaku.com/article/378354578.html" target="_blank">
-�䕗26����Q ���}�z�[���Y�ɉJ�R�肪�I
+台風26号被害 東急ホームズに雨漏りが！
 </a>
 </li>
 
 <li>
 <span class="date">13.10.16</span>
 <a href="http://iehikaku.com/article/377599832.html" target="_blank">
-�Z�݂����X�����L���O2013�@��t���̗���́I�H
+住みたい街ランキング2013　千葉県の立場は！？
 </a>
 </li>
 
 <li>
 <span class="date">13.10.11</span>
 <a href="http://iehikaku.com/article/377255121.html" target="_blank">
-����ő��Ō���I �Z��[�����Ł����܂����t���œ�����̂͒N�H
+消費税増税決定！ 住宅ローン減税＆すまい給付金で得するのは誰？
 </a>
 </li>
 
 <li>
 <span class="date">13.10.11</span>
 <a href="http://dog.iehikaku.com/article/377225251.html" target="_blank">
-�o�[�j�[�Y�̖ڂ�ɑ΍�t�[�h�Ƃ́H�H
+バーニーズの目やに対策フードとは？？
 </a>
 </li>
 
 <li>
 <span class="date">13.9.27</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2013-09-27" target="_blank">
-�ꌚ�݂̒ؒP���͂Q�P���~�I
+一建設の坪単価は２１万円！
 </a>
 </li>
 
 <li>
 <span class="date">13.9.20</span>
 <a href="http://iehikaku.com/article/375217010.html" target="_blank">
-�����Z������Ă����т̕��ϔN���͂W�P�O���~�I
+注文住宅を建てた世帯の平均年収は８１０万円！
 </a>
 </li>
 
 <li>
 <span class="date">13.9.17</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2013-09-17" target="_blank">
-�ƊE��m��s���������Ƃ��Z��̏��𔭐M����T�C�g���I�[�v��
+業界を知り尽くした専門家が住宅の情報を発信するサイトがオープン
 </a>
 </li>
 
 <li>
 <span class="date">13.9.16</span>
 <a href="http://kaden.iehikaku.com/article/374950958.html" target="_blank">
-�h���f�W�J����r�I �p�iVS�\�j�[ ���I���Ȃ��̂͂ǂ������I�H
+防水デジカメ比較！ パナVSソニー 結露しないのはどっちだ！？
 </a>
 </li>
 
 <li>
 <span class="date">13.9.13</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2013-09-13" target="_blank">
-�A���t�@�[�h�n�C�u���b�h�ŎԒ����`�_�b�`�I�[�u���ҁ`
+アルファードハイブリッドで車中泊～ダッチオーブン編～
 </a>
 </li>
 
 <li>
 <span class="date">13.9.11</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2013-09-11" target="_blank">
-�A���t�@�[�h�n�C�u���b�h�ŎԒ����`��V�ѕҁ`
+アルファードハイブリッドで車中泊～川遊び編～
 </a>
 </li>
 
 <li>
 <span class="date">13.8.28</span>
 <a href="http://iehikaku.com/article/373074809.html" target="_blank">
-�Q�O�P�Q�N�x�v���n�u�Z��̔��ː������L���O�I
+２０１２年度プレハブ住宅販売戸数ランキング！
 </a>
 </li>
 
 <li>
 <span class="date">13.8.26</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2013-08-26" target="_blank">
-�Z��W���ꌩ�w�̃m�E�n�E���܂Ƃ߂܂����I
+住宅展示場見学のノウハウをまとめました！
 </a>
 </li>
 
 <li>
 <span class="date">13.8.23</span>
 <a href="http://iehikaku.com/article/372681228.html" target="_blank">
-�����I �~�T���z�[�����~�d�r�����^����Ђƒ�g
+お得！ ミサワホームが蓄電池レンタル会社と提携
 </a>
 </li>
 
 <li>
 <span class="date">13.8.13</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2013-08-13" target="_blank">
-�A���t�@�[�h�n�C�u���b�h�ŃL�����v�I
+アルファードハイブリッドでキャンプ！
 </a>
 </li>
 
 <li>
 <span class="date">13.8.12</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2013-08-12" target="_blank">
-�����h���̉��オ�X�W���~�I �O�ƏZ��i���̂Q�j
+金属防水の屋上が９８万円！ 桧家住宅（その２）
 </a>
 </li>
 
 <li>
 <span class="date">13.8.09</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2013-08-09" target="_blank">
-�����h���̉��オ�X�W���~�I�@�O�ƏZ��i���̂P�j�@
+金属防水の屋上が９８万円！　桧家住宅（その１）　
 </a>
 </li>
 
 <li>
 <span class="date">13.8.07</span>
 <a href="http://iehikaku.com/article/371303248.html" target="_blank">
-�_�C���n�E�X���k���C���e���A�u�����h�u�{�[�R���Z�v�g�v�ƃR���{
+ダイワハウスが北欧インテリアブランド「ボーコンセプト」とコラボ
 </a>
 </li>
 
 <li>
 <span class="date">13.7.30</span>
 <a href="http://zenta-dog.seesaa.net/article/370537539.html" target="_blank">
-�o�[�j�[�Y�}�E���e���h�b�O�Ɛ�V��
+バーニーズマウンテンドッグと川遊び
 </a>
 </li>
 
 <li>
 <span class="date">13.7.29</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2013-07-29" target="_blank">
-�X�E�F�[�f���n�E�X��UA�l���S���\���I
+スウェーデンハウスがUA値も全棟表示！
 </a>
 </li>
 
 <li>
 <span class="date">13.7.26</span>
 <a href="http://iehikaku.com/article/370324746.html" target="_blank">
-�~�T���z�[�����ؒP���S�R�D�V���~�̖ؑ��Z��𔭔�
+ミサワホームが坪単価４３．７万円の木造住宅を発売
 </a>
 </li>
 
@@ -404,406 +396,406 @@ TBS�e���r�u�����`�����I�v�ɃV�F�A�n�E�X�l�^�ŏo�����܂��I
 <li>
 <span class="date">13.7.24</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2013-07-24" target="_blank">
-�Ɠd�E�~�j�o����r�u���O���J�݂��܂����I
+家電・ミニバン比較ブログを開設しました！
 </a>
 </li>
 
 <li>
 <span class="date">13.7.16</span>
 <a href="http://iehikaku.com/article/369431528.html" target="_blank">
-�Z��[���V�~�����[�V���������i.com�ŊȒP�ɁI
+住宅ローンシミュレーションを価格.comで簡単に！
 </a>
 </li>
 
 <li>
 <span class="date">13.7.12</span>
 <a href="http://iehikaku.com/article/369043022.html" target="_blank">
-�Z�L�X�C�n�C�����u�����ȃG�l��v�Ή��́u�~���C�E�N���X�v�𔭔�
+セキスイハイムが「改正省エネ基準」対応の「ミライ・クラス」を発売
 </a>
 </li>
 
 <li>
 <span class="date">13.7.12</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2013-07-12" target="_blank">
-�A���t�@�[�h�n�C�u���b�h�ɂ̓~�j�o����p�^�C�����I�i��сj
+アルファードハイブリッドにはミニバン専用タイヤを！（後篇）
 </a>
 </li>
 
 <li>
 <span class="date">13.7.10</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2013-07-10" target="_blank">
-�A���t�@�[�h�n�C�u���b�h�ɂ̓~�j�o����p�^�C�����I�i�O�сj
+アルファードハイブリッドにはミニバン専用タイヤを！（前篇）
 </a>
 </li>
 
 <li>
 <span class="date">13.7.05</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2013-07-05" target="_blank">
-�s���Y�ƂŐ�Ζׂ���q�P�c�Ƃ́I�H
+不動産業で絶対儲かるヒケツとは！？
 </a>
 </li>
 
 <li>
 <span class="date">13.7.04</span>
 <a href="http://iehikaku.com/article/368306037.html" target="_blank">
-�����ȕs���Y���������c����@
+小さな不動産屋が生き残る方法
 </a>
 </li>
 
 <li>
 <span class="date">13.7.02</span>
 <a href="http://iehikaku.com/article/368041784.html" target="_blank">
-�Z��̃v�����I�Ԍ��ށE�ݔ����[�J�[�����L���O�Q�O�P�Q
+住宅のプロが選ぶ建材・設備メーカーランキング２０１２
 </a>
 </li>
 
 <li>
 <span class="date">13.7.01</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2013-07-01" target="_blank">
-����ŃA�b�v��ł��Z��𔃂��Γ�������I�H
+消費税アップ後でも住宅を買えば得をする！？
 </a>
 </li>
 
 <li>
 <span class="date">13.6.23</span>
 <a href="http://iehikaku.com/article/367292194.html" target="_blank">
-�w�[�x���n�E�X�̕ۏ؊��Ԃ͉��N�H
+ヘーベルハウスの保証期間は何年？
 </a>
 </li>
 
 <li>
 <span class="date">13.6.19</span>
 <a href="http://iehikaku.com/article/366734315.html" target="_blank">
-�w�[�x���n�E�X�́u���݁v�Ɓu��݁v
+ヘーベルハウスの「強み」と「弱み」
 </a>
 </li>
 
 <li>
 <span class="date">13.6.18</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2013-06-18" target="_blank">
-�u���}�_�E�G�X�o�C�G���z�[���v�̐��\�́I�H
+「ヤマダ・エスバイエルホーム」の性能は！？
 </a>
 </li>
 
 <li>
 <span class="date">13.6.17</span>
 <a href="http://iehikaku.com/article/366627000.html" target="_blank">
-1�ʂ͐ϐ��n�E�X�I �n�E�X���[�J�[�ˌ��Ĕ̔��ː������L���O
+1位は積水ハウス！ ハウスメーカー戸建て販売戸数ランキング
 </a>
 </li>
 
 <li>
 <span class="date">13.6.14</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2013-06-14" target="_blank">
-�ϐ��n�E�X�̍ŐV�d�l�Ƃ́I�H
+積水ハウスの最新仕様とは！？
 </a>
 </li>
 
 <li>
 <span class="date">13.6.14</span>
 <a href="http://iehikaku.com/article/366328299.html" target="_blank">
-�Z�L�X�C�n�C��������Ă��郏�P�́I�H
+セキスイハイムが売れているワケは！？
 </a>
 </li>
 
 <li>
 <span class="date">13.6.14</span>
 <a href="http://iehikaku.com/article/366320783.html" target="_blank">
-�ō��z�͂X�Q�T���~�I �n�E�X���[�J�[���ϔN�������L���O
+最高額は９２５万円！ ハウスメーカー平均年収ランキング
 </a>
 </li>
 
 <li>
 <span class="date">13.6.12</span>
 <a href="http://iehikaku.com/article/366116137.html?1371035906" target="_blank">
-�^�}�z�[���̍ŐV����p�𕷂��Ă��܂����I
+タマホームの最新諸費用を聞いてきました！
 </a>
 </li>
 
 <li>
 <span class="date">13.6.11</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2013-06-11" target="_blank">
-�_�C���n�E�X����C���򃆃j�b�g�𖳗��Őݒu�I
+ダイワハウスが空気清浄ユニットを無料で設置！
 </a>
 </li>
 
 <li>
 <span class="date">13.6.07</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2013-06-07" target="_blank">
-�Q�O�P�Q�N�x���n�E�X���[�J�[�ؒP�������L���O�I
+２０１２年度大手ハウスメーカー坪単価ランキング！
 </a>
 </li>
 
 <li>
 <span class="date">13.6.06</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2013-06-06" target="_blank">
-�����_�b�V���T���nVS�V���[�Y�V �ŋ��d�C�V���[�o�[�̓R�����I
+ラムダッシュ５枚刃VSシリーズ７ 最強電気シャーバーはコレだ！
 </a>
 </li>
 
 <li>
 <span class="date">13.5.29</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2013-05-29" target="_blank">
-2013�ŋ��[���E�����d�C�V�F�[�o�[�̓R�����I�@
+2013最強深剃り・早剃り電気シェーバーはコレだ！　
 </a>
 </li>
 
 <li>
 <span class="date">13.5.01</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2013-05-01" target="_blank">
-�G�X�E�o�C�E�G���������}�_�d�@�̉Ƃ��Ăǂ�ȉƁH�@
+エス・バイ・エルｂｙヤマダ電機の家ってどんな家？　
 </a>
 </li>
 
 <li>
 <span class="date">13.4.22</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2013-04-22" target="_blank">
-�A�C�_�݌v�u�T�T�T���~�̉Ɓv�͈ӊO�ɍ����������I�H�@
+アイダ設計「５５５万円の家」は意外に高級だった！？　
 </a>
 </li>
 
 <li>
 <span class="date">13.4.5</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2013-04-05" target="_blank">
-�p�i�\�j�b�N�k�w�T�@VS�@�f�W�^�����@�`��ԎB�e�ҁ`
+パナソニックＬＸ５　VS　デジタル一眼　～夜間撮影編～
 </a>
 </li>
 
 <li>
 <span class="date">13.4.4</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2013-04-04" target="_blank">
-�_�C���n�E�X���ؒP���S�X���~��̖ؑ��Z��𔭔��I
+ダイワハウスが坪単価４９万円台の木造住宅を発売！
 </a>
 </li>
 
 <li>
 <span class="date">13.3.25</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2013-03-21-1" target="_blank">
-IKEA�i�C�P�A�j�̂P�Q���~�L�b�`���͖{���ɂ��������H
+IKEA（イケア）の１２万円キッチンは本当にお買い得？
 </a>
 </li>
 
 <li>
 <span class="date">13.3.18</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2013-03-15" target="_blank">
-�n�E�X���[�J�[�W����Low-E�K���X�ł͊����I
+ハウスメーカー標準のLow-Eガラスでは寒い！
 </a>
 </li>
 
 <li>
 <span class="date">13.3.15</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2013-03-15" target="_blank">
-�A���t�@�[�h�n�C�u���b�h�̔R��̓��b�^�[�P�O������؂�Ȃ��I
+アルファードハイブリッドの燃費はリッター１０ｋｍを切らない！
 </a>
 </li>
 
 <li>
 <span class="date">13.3.12</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2013-03-12" target="_blank">
-��H����̕��ϓ�����1��6000�~�I �S���{�H���i����
+大工さんの平均日給は1万6000円！ 全国施工価格調査
 </a>
 </li>
 
 <li>
 <span class="date">13.3.10</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2013-03-10" target="_blank">
-�A���t�@�[�h�n�C�u���b�h�̃o�b�e���[�͍����I
+アルファードハイブリッドのバッテリーは高い！
 </a>
 </li>
 
 <li>
 <span class="date">13.2.24</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2013-02-24" target="_blank">
-�u����Ǖi�̉Ɓv���ėǂ��́H�@�����́H
+「無印良品の家」って良いの？　悪いの？
 </a>
 </li>
 
 <li>
 <span class="date">13.2.20</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2013-02-20" target="_blank">
-2012�N�����n�E�X���[�J�[�ؒP�������L���O
+2012年中期ハウスメーカー坪単価ランキング
 </a>
 </li>
 
 <li>
 <span class="date">12.12.6</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2012-12-06" target="_blank">
-������ɍ��i���܂����B
+宅建試験に合格しました。
 </a>
 </li>
 
 <li>
 <span class="date">12.11.16</span>
 <a href="http://www.publabo.co.jp/suuji/" target="_blank">
-�w�В��̐����̑������x�����B�ꕔ���M���Ă��܂��I
+『社長の数字の捉え方』発売。一部執筆しています！
 </a>
 </li>
 
 <li>
 <span class="date">12.10.31</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2012-10-31" target="_blank">
-�n�E�X���[�J�[�ȃG�l�����L���O�@���18�Ђ��r�I
+ハウスメーカー省エネランキング　大手18社を比較！
 </a>
 </li>
 
 <li>
 <span class="date">12.10.29</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2012-10-26" target="_blank">
-���𗽂��`�ʗ́I�@�����R���f�WLX5�������Ⴂ�܂����B
+一眼を凌ぐ描写力！　高級コンデジLX5買っちゃいました。
 </a>
 </li>
 
 <li>
 <span class="date">12.10.23</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2012-10-23-1" target="_blank">
-���Ȃ��́u�S�̒ꂩ��[���ł���Ɓv��������ɂ́H
+あなたの「心の底から納得できる家」が分かるには？
 </a>
 </li>
 
 <li>
 <span class="date">12.9.3</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2012-09-03" target="_blank">
-�Z�F�ыƁE�����{�n�E�X�ł����z��@�̈ᔽ���I
+住友林業・東日本ハウスでも建築基準法の違反が！
 </a>
 </li>
 
 <li>
 <span class="date">12.7.26</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2012-07-26" target="_blank">
-�Z�L�X�C�n�C��34���Ő��\�s��������
+セキスイハイム34棟で性能不足が判明
 </a>
 </li>
 
 <li>
 <span class="date">12.7.5</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2012-07-05" target="_blank">
-�Q�O�P�P�N�x���n�E�X���[�J�[�ؒP�������L���O�I
+２０１１年度大手ハウスメーカー坪単価ランキング！
 </a>
 </li>
 
 <li>
 <span class="date">12.6.15</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2012-06-15" target="_blank">
-���n�E�X���[�J�[�U�Ђ̋Z�p�J�^���O���r�I
+大手ハウスメーカー６社の技術カタログを比較！
 </a>
 </li>
 
 <li>
 <span class="date">12.6.13</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2012-06-13" target="_blank">
-�d�����u���V�͂���ς�I�������I�H�@
+電動歯ブラシはやっぱりオムロン！？　
 </a>
 </li>
 
 <li>
 <span class="date">12.5.25</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2012-05-25" target="_blank">
-HEMS�̐ݒu�ɂP�O���~�̕⏕
+HEMSの設置に１０万円の補助
 </a>
 </li>
 
 <li>
 <span class="date">12.5.11</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2012-05-11" target="_blank">
-�L�b�`���̃X�e�����X�͂��т�!? �S�僁�[�J�[�i������
+キッチンのステンレスはさびる!? ４大メーカー品を試験
 </a>
 </li>
 
 <li>
 <span class="date">12.5.1</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2012-05-01" target="_blank">
-�����Z����w�����鐢�т̕��ϔN���͂U�T�P���~�I
+注文住宅を購入する世帯の平均年収は６５１万円！
 </a>
 </li>
 
 <li>
 <span class="date">12.4.18</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2012-04-18" target="_blank">
-�Q�O�P�Q�N �ŐV�I�[�u�������W��r�I
+２０１２年 最新オーブンレンジ比較！
 </a>
 </li>
 
 <li>
 <span class="date">12.4.17</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2012-04-17" target="_blank">
-�Z�L�X�C�n�C���̑��z�����ړ������M�l�X�L�^�ɁI
+セキスイハイムの太陽光搭載棟数がギネス記録に！
 </a>
 </li>
 
 <li>
 <span class="date">12.3.28</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2012-03-28" target="_blank">
-�V�z���̉Ƌ�E�Ɠd�w����̕��ς͂P�V�T���~�I
+新築時の家具・家電購入費の平均は１７５万円！
 </a>
 </li>
 
 <li>
 <span class="date">12.1.27</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2012-01-27" target="_blank">
-�V�z�̃L�b�`���ɋ��Ă��O�����͕s�v�I�H
+新築のキッチンに魚焼きグリルは不要！？
 </a>
 </li>
 
 <li>
 <span class="date">12.1.12</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2012-01-12" target="_blank">
-�D���ȓy�n�ɂRD�̃~�T���z�[�������Ă���A�v���I
+好きな土地に３Dのミサワホームが建てられるアプリ！
 </a>
 </li>
 
 <li>
 <span class="date">12.1.6</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2012-01-06" target="_blank">
-2011�N�x�㔼���n�E�X���[�J�[�ؒP�������L���O�I
+2011年度上半期ハウスメーカー坪単価ランキング！
 </a>
 </li>
 
 <li>
 <span class="date">11.12.29</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-12-29" target="_blank">
-���z����1�ʂ̓V���[�v�I�@�v�����I�Ԑݔ����[�J�[�����L���O2011
+太陽光の1位はシャープ！　プロが選ぶ設備メーカーランキング2011
 </a>
 </li>
 
 <li>
 <span class="date">11.12.22</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-12-22" target="_blank">
-�V�z�̗�g�[��قڐ��m�ɕ�����\�t�g�������I
+新築の冷暖房費がほぼ正確に分かるソフトが発売！
 </a>
 </li>
 
 <li>
 <span class="date">11.11.22</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-11-22" target="_blank">
-35S�E�Z��G�R�|�C���g�������I�@�������Ăǂ����I�H
+35S・住宅エコポイントが復活！　今が建てどきか！？
 </a>
 </li>
 
 <li>
 <span class="date">11.9.28</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-09-28" target="_blank">
-����900���~�I�[�o�[�I 2011�n�E�X���[�J�[�N�������L���O
+ついに900万円オーバー！ 2011ハウスメーカー年収ランキング
 </a>
 </li>
 
 <li>
 <span class="date">11.9.27</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2011-09-27" target="_blank">
-�S�[�f���~�v�[�h�����S�[���f���h���[�h�������w!
+ゴーデン×プードル＝ゴールデンドュードルを見学!
 </a>
 </li>
 
 <li>
 <span class="date">11.9.14</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2011-09-14" target="_blank">
-�͂��߂Ă̕x�m�R�o���`���H��
+はじめての富士山登頂～実践編
 </a>
 </li>
 
 <li>
 <span class="date">11.9.13</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-09-13" target="_blank">
-�^�}�z�[������p�܂Ŋ܂ރR�~�R�~���i�ɁI
+タマホーム諸費用まで含むコミコミ価格に！
 </a>
 </li>
 
@@ -811,385 +803,385 @@ HEMS�̐ݒu�ɂP�O���~�̕⏕
 <li>
 <span class="date">11.9.2</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-09-02" target="_blank">
-���}�z�[���Y����ؒP��29���~��I�@�`9��11���܂�
+東急ホームズから坪単価29万円台！　～9月11日まで
 </a>
 </li>
 
 <li>
 <span class="date">11.9.1</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-09-01" target="_blank">
-�����Z��w���̕��ϊz�͂S�R�T�T���~�I
+注文住宅購入の平均額は４３５５万円！
 </a>
 </li>
 
 <li>
 <span class="date">11.8.30</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2011-08-30" target="_blank">
-�͂��߂Ă̕x�m�R�o���`������
+はじめての富士山登頂～準備編
 </a>
 </li>
 
 <li>
 <span class="date">11.7.27</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-07-27" target="_blank">
-�ؒP��47���~��ő��z���t�Z��Z�L�X�C�n�C�����甭���@
+坪単価47万円台で太陽光付住宅がセキスイハイムから発売　
 </a>
 </li>
 
 <li>
 <span class="date">11.7.26</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2011-07-26" target="_blank">
-�f�B�[�K�̂R�ԑg�����^��͎g����I�@�@
+ディーガの３番組同時録画は使える！　　
 </a>
 </li>
 
 <li>
 <span class="date">11.7.21</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-07-21" target="_blank">
-�u�Z��\�\�����x�v�̍��ڂɁu�t�󉻑΍�v������I�H�@�@
+「住宅性能表示制度」の項目に「液状化対策」も入る！？　　
 </a>
 </li>
 
 <li>
 <span class="date">11.7.12</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-07-12" target="_blank">
-�O��z�[����327���~�l�����I�@
+三井ホームが327万円値引き！　
 </a>
 </li>
 
 <li>
 <span class="date">11.6.30</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-06-30" target="_blank">
-2010�N�x���n�E�X���[�J�[�ؒP�������L���O�@
+2010年度大手ハウスメーカー坪単価ランキング　
 </a>
 </li>
 
 <li>
 <span class="date">11.6.28</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2011-06-28" target="_blank">
-�u���[���C���R�[�_�[��DNLA�͎g����I
+ブルーレイレコーダーのDNLAは使える！
 </a>
 </li>
 
 <li>
 <span class="date">11.6.24</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2011-06-24" target="_blank">
-���ǃu���[���C�̓p�iBZT700�𔃂��܂����B
+結局ブルーレイはパナBZT700を買いました。
 </a>
 </li>
 
 <li>
 <span class="date">11.6.21</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2011-06-21" target="_blank">
-HDD�����e���r���BD���R�[�_�[�̗��R
+HDD内蔵テレビよりBDレコーダーの理由
 </a>
 </li>
 
 <li>
 <span class="date">11.6.20</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-06-20" target="_blank">
-�e�n�E�X���[�J�[�̑ϐk���\���a��I
+各ハウスメーカーの耐震性能を斬る！
 </a>
 </li>
 
 <li>
 <span class="date">11.6.16</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2011-06-16" target="_blank">
-2011�N6���E�x�X�g�o�C��BD���R�[�_�[�̓R���B
+2011年6月・ベストバイのBDレコーダーはコレ。
 </a>
 </li>
 
 <li>
 <span class="date">11.6.6</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-06-06" target="_blank">
-�n�E�X���[�J�[���㍂�����L���O�I�i2011�N3�������Z�j
+ハウスメーカー売上高ランキング！（2011年3月期決算）
 </a>
 </li>
 
 <li>
 <span class="date">11.6.2</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2011-06-02" target="_blank">
-�u�����Ń��[�V�b�N�v����1�N���E���͂́H �f�����b�g�́H
+「無料でレーシック」から1年半・視力は？ デメリットは？
 </a>
 </li>
 
 <li>
 <span class="date">11.5.27</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-05-27" target="_blank">
-�n�k�ی��ɒÔg�̐V���ݒ�
+地震保険に津波の新基準を設定
 </a>
 </li>
 
 <li>
 <span class="date">11.4.1</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-04-01" target="_blank">
-�p�\�R���d�͂�ߓd���閳���\�t�g
+パソコン電力を節電する無料ソフト
 </a>
 </li>
 
 <li>
 <span class="date">11.3.18</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-03-18" target="_blank">
-�t�󉻌�̉�������@at ��t�������G���A�@
+液状化後の下水事情　at 千葉県幕張エリア　
 </a>
 </li>
 
 <li>
 <span class="date">11.3.15</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-03-15" target="_blank">
-So-net�|�C���g�Ŕ�Вn�ɕ��
+So-netポイントで被災地に募金
 </a>
 </li>
 
 <li>
 <span class="date">11.3.14</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-03-14" target="_blank">
-�t�󉻁I ��k�Ђɂ���t�������G���A�̏�
+液状化！ 大震災による千葉県幕張エリアの状況
 </a>
 </li>
 
 <li>
 <span class="date">11.3.10</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-03-10" target="_blank">
-�蔲������Ȃ��Ă��X�L�}���т�[�т�[!?�@�ϐ��n�E�X
+手抜きじゃなくてもスキマ風びゅーびゅー!?　積水ハウス
 </a>
 </li>
 
 <li>
 <span class="date">11.3.3</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-03-03" target="_blank">
-15�a�P�ʂŐ݌v�\�I �p�i�z�[���u�J�T�[�g�v
+15㌢単位で設計可能！ パナホーム「カサート」
 </a>
 </li>
 
 <li>
 <span class="date">11.2.4</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-02-04" target="_blank">
-���z�����J�I �~�T���z�[���̌��Ϗ�
+総額を公開！ ミサワホームの見積書
 </a>
 </li>
 
 <li>
 <span class="date">11.1.26</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2011-01-26" target="_blank">
-��������I �A���t�@�[�h�n�C�u���b�h�̔R��́H
+実走測定！ アルファードハイブリッドの燃費は？
 </a>
 </li>
 
 <li>
 <span class="date">11.1.21</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-01-21" target="_blank">
-2010�N�x���Ԋ� ���n�E�X���[�J�[�ؒP�������L���O�I
+2010年度中間期 大手ハウスメーカー坪単価ランキング！
 </a>
 </li>
 
 <li>
 <span class="date">11.1.19</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2011-01-19" target="_blank">
-�A���t�@�[�h�n�C�u���b�h�ő�^���ƎԒ����I
+アルファードハイブリッドで大型犬と車中泊！
 </a>
 </li>
 
 <li>
 <span class="date">11.1.13</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-01-13" target="_blank">
-���z�����J�I �ϐ��n�E�X�̌��Ϗ�
+総額を公開！ 積水ハウスの見積書
 </a>
 </li>
 
 <li>
 <span class="date">11.1.12</span>
 <a href="http://http://menchi-yo.blog.so-net.ne.jp/2011-01-12" target="_blank">
-�����A���t�@�[�h�n�C�u���b�h�𔃂������P�B
+私がアルファードハイブリッドを買ったワケ。
 </a>
 </li>
 
 <li>
 <span class="date">10.12.17</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-12-17" target="_blank">
-����ς荂���\�I�O�m�z�[���Y�{�H��������w�B
+やっぱり高性能！三洋ホームズ施工現場を見学。
 </a>
 </li>
 
 <li>
 <span class="date">10.12.3</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-12-03" target="_blank">
-�u�n�Չ��ǔ�p�͓y�n�̔���傪���S���ׂ��v�̔����I
+「地盤改良費用は土地の売り主が負担すべき」の判決！
 </a>
 </li>
 
 <li>
 <span class="date">10.11.19</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-11-19" target="_blank">
-�ϐ��n�E�X���u��Ƃ̎Љ�I�ӔC�v�Ńg�b�v�ɁI
+積水ハウスが「企業の社会的責任」でトップに！
 </a>
 </li>
 
 <li>
 <span class="date">10.11.11</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-11-11" target="_blank">
-�S�ً󒲂⑾�z�������ʉ��i�ɁI �����Z�L�X�C�n�C��
+全館空調や太陽光が特別価格に！ ｂｙセキスイハイム
 </a>
 </li>
 
 <li>
 <span class="date">10.11.5</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-11-05" target="_blank">
-2009�N�x�v���n�u�Z��̔��ː������L���O
+2009年度プレハブ住宅販売戸数ランキング
 </a>
 </li>
 
 <li>
 <span class="date">10.10.13</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-10-13" target="_blank">
-1�ʂ�862���~�I 2010�n�E�X���[�J�[�N�������L���O
+1位は862万円！ 2010ハウスメーカー年収ランキング
 </a>
 </li>
 
 <li>
 <span class="date">10.10.1</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-10-01" target="_blank">
-�ϐ��n�E�X�̍ŐV���i�u�r�[�E�T�C�G�v�����Ă��܂����B
+積水ハウスの最新商品「ビー・サイエ」を見てきました。
 </a>
 </li>
 
 <li>
 <span class="date">10.9.17</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-09-17" target="_blank">
-�ϐ��n�E�X(�S���j�ł��V���A���΍�͕K�v�ł����B
+積水ハウス(鉄骨）でもシロアリ対策は必要でした。
 </a>
 </li>
 
 <li>
 <span class="date">10.9.14</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-09-14" target="_blank">
-���{���z�w��u�ؑ��Z��v���֎~���Ă����I�H
+日本建築学会が「木造住宅」を禁止していた！？
 </a>
 </li>
 
 <li>
 <span class="date">10.9.8</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-09-08" target="_blank">
-�ޗǂ̖@��������ؑ��Z��̎��͂�m��܂����B
+奈良の法隆寺から木造住宅の実力を知りました。
 </a>
 </li>
 
 <li>
 <span class="date">10.9.3</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-09-03" target="_blank">
-�z�[���C���X�y�N�V�����Œ��ÏZ��̉���������H
+ホームインスペクションで中古住宅の何が分かる？
 </a>
 </li>
 
 <li>
 <span class="date">10.8.26</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-08-26" target="_blank">
-1000���~�ȏ������!?�@���x�̂悢���ÏZ��𔃂��ɂ�
+1000万円以上もお得!?　程度のよい中古住宅を買うには
 </a>
 </li>
 
 <li>
 <span class="date">10.8.19</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-08-19" target="_blank">
-�V�z�ˌ��Ă̊O�ǂ������ƃL���C�ɕۂ��@�@
+新築戸建ての外壁をずっとキレイに保つ方法　
 </a>
 </li>
 
 <li>
 <span class="date">10.8.6</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-08-06" target="_blank">
-�e���[�J�[�̌��L�̑������ꔭ�œǂ߂܂��I�`�܂��͐ϐ��n�E�X����`�@
+各メーカー体験記の続きが一発で読めます！～まずは積水ハウスから～　
 </a>
 </li>
 
 <li>
 <span class="date">10.7.27</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-07-27" target="_blank">
-�_�C���n�E�X�����`�E���C�I���~�d�r�t���Z������i���ց@�@
+ダイワハウスがリチウムイオン蓄電池付き住宅を商品化へ　　
 </a>
 </li>
 
 <li>
 <span class="date">10.7.23</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2010-07-23" target="_blank">
-�t���n�C�r�W���������w30�{�r�f�I�J�����ɑ喞���I�@�@
+フルハイビジョン＆光学30倍ビデオカメラに大満足！　　
 </a>
 </li>
 
 <li>
 <span class="date">10.7.22</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2010-07-21" target="_blank">
-���掿�����]���̃f�W�^���r�f�I�J�����𔃂����I�@�@
+高画質＆高望遠のデジタルビデオカメラを買おう！　　
 </a>
 </li>
 
 <li>
 <span class="date">10.7.15</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-07-15" target="_blank">
-�P�ʂ͐ϐ��n�E�X�I 2009�N�x�n�E�X���[�J�[�̔��ː������L���O�@�@
+１位は積水ハウス！ 2009年度ハウスメーカー販売戸数ランキング　　
 </a>
 </li>
 
 <li>
 <span class="date">10.7.12</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2010-07-12" target="_blank">
-�d�����u���V���ĂQ�O�O�O�~�ŏ\���ł���H�@
+電動歯ブラシって２０００円で十分でしょ？　
 </a>
 </li>
 
 <li>
 <span class="date">10.7.9</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-07-09" target="_blank">
-�ƂɊւ��鎿��ɂ������������̂ł����c�c�B�@
+家に関する質問にお答えしたいのですが……。　
 </a>
 </li>
 
 <li>
 <span class="date">10.6.30</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-06-30" target="_blank">
-2009�N�x���n�E�X���[�J�[�ؒP�������L���O�I�@
+2009年度大手ハウスメーカー坪単価ランキング！　
 </a>
 </li>
 
 <li>
 <span class="date">10.6.3</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-06-03" target="_blank">
-�u��胁�[�J�[������蔲���͂Ȃ��v�͂��肦�Ȃ��I�H�@
+「大手メーカーだから手抜きはない」はありえない！？　
 </a>
 </li>
 
 <li>
 <span class="date">10.5.21</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-05-21" target="_blank">
-����Ȃ��܂���C�ŒؒP���T�X���~!? �u���Y���Z��v�@
+こんなうまい空気で坪単価５９万円!? 「無添加住宅」　
 </a>
 </li>
 
 <li>
 <span class="date">10.5.20</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2010-05-20" target="_blank">
-�c�Ȃ��݃��b�N�����[���[�����W���[�f�r���[�I�H�@
+幼なじみロックンローラーがメジャーデビュー！？　
 </a>
 </li>
 
 <li>
 <span class="date">10.5.14</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-05-14" target="_blank">
-����Ȃɂ������ŒؒP���T�W���~�I�H �u�O��z�[���v
+こんなにおしゃれで坪単価５８万円！？ 「三井ホーム」
 </a>
 </li>
 
 <li>
 <span class="date">10.5.12</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-05-11" target="_blank">
-�ց[�x���n�E�X�̓_���g�c���B�ł������I�H�@
+へーベルハウスはダントツ頑丈。でも寒い！？　
 </a>
 </li>
 
 <li>
 <span class="date">10.4.28</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-04-28" target="_blank">
-�S�[���f���E�B�[�N�ɏZ��W����ɍs���Ȃ�B
+ゴールデンウィークに住宅展示場に行くなら。
 </a>
 </li>
 
@@ -1197,237 +1189,236 @@ So-net�|�C���g�Ŕ�Вn�ɕ��
 <li>
 <span class="date">10.4.23</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-04-23" target="_blank">
-�ؒP��43.8���~��������!?�@�_�C���n�E�X�uxevo C�v�@
+坪単価43.8万円だったの!?　ダイワハウス「xevo C」　
 </a>
 </li>
 
 <li>
 <span class="date">10.4.13</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-04-13" target="_blank">
-�������P�S�W�O�~�̏Ɩ��Ŗ�̒낪���I�ɕω��I�@
+たった１４８０円の照明で夜の庭が劇的に変化！　
 </a>
 </li>
 
 <li>
 <span class="date">10.4.9</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2010-04-09" target="_blank">
-�uau�Ђ���v�̂�������T�|�[�g�̐����������p�I�@
+「auひかり」のがっかりサポート体制を実況中継！　
 </a>
 </li>
 
 <li>
 <span class="date">10.3.30</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-03-30" target="_blank">
-�v�������؁I�@IKEA�̉Ƌ�͖{���ɂ����������H�@
+プロが検証！　IKEAの家具は本当にお買い得か？　
 </a>
 </li>
 
 <li>
 <span class="date">10.3.24</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-03-24" target="_blank">
-�Ƃ����Ă�Ȃ甄�p���i�ɂ�������肽���B �Z��f�f�̌������ށI�@
+家を建てるなら売却価格にもこだわりたい。 住宅診断の現場を取材！　
 </a>
 </li>
 
 <li>
 <span class="date">10.3.8</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-03-08" target="_blank">
-�ƂÂ���ł��l�Ԋ֌W�ł��u�x�X�g��s�����Ȃ��v����C���C������@
+家づくりでも人間関係でも「ベストを尽くさない」からイライラする　
 </a>
 </li>
 
 <li>
 <span class="date">10.3.5</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-03-05" target="_blank">
-�U�P�l���̏Z��w���̎��s������v���[���g�I
+６１人分の住宅購入の失敗事例をプレゼント！
 </a>
 </li>
 
 <li>
 <span class="date">10.2.26</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-02-25" target="_blank">
-�u���z�̕s���Y�Ǝ҂̌��������킩��v�{�������I
+「理想の不動産業者の見つけ方がわかる」本が発売！
 </a>
 </li>
 
 <li>
 <span class="date">10.2.19</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2010-02-19" target="_blank">
-�R�W�}�E���}�_�E���h�o�V�E�r�b�N�A�Ɠd�̒����ۏؔ�r
+コジマ・ヤマダ・ヨドバシ・ビック、家電の長期保証比較
 </a>
 </li>
 
 <li>
 <span class="date">10.2.18</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-02-18" target="_blank">
-�t�B�A�X�z�[�����u�n�E�X�E�I�u�E�U�E�C���[�v����܁I���̗��R�́H
+フィアスホームが「ハウス・オブ・ザ・イヤー」を受賞！その理由は？
 </a>
 </li>
 
 <li>
 <span class="date">10.2.12</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-02-12" target="_blank">
-3D�摜�ŃG�R�ݔ���̊��I�Z�F�ыƂ��uWEB�Z�܂����v���J�Ò�
+3D画像でエコ設備を体感！住友林業が「WEB住まい博」を開催中
 </a>
 </li>
 
 <li>
 <span class="date">10.2.9</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-02-09" target="_blank">
-�ؒP���S�U�D�V���~�`�I�@�~�T���z�[������u�O����Ԃ��y���ށv�Z�����
+坪単価４６．７万円～！　ミサワホームから「外部空間を楽しむ」住宅が発売
 </a>
 </li>
 
 <li>
 <span class="date">10.2.4</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2010-02-04" target="_blank">
-10���~�ȉ��Ń��[�V�b�N��p���󂯂܂����B��p�����Ă��̌�́I�H
+10万円以下でレーシック手術を受けました。手術そしてその後は！？
 </a>
 </li>
 
 <li>
 <span class="date">10.1.28</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-01-28" target="_blank">
-�����ƈꏏ�ɕ����Z��n�̍L���B�e�ɎQ�����Ă��܂����I
+愛犬と一緒に分譲住宅地の広告撮影に参加してきました！
 </a>
 </li>
 
 <li>
 <span class="date">10.1.27</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2010-01-27" target="_blank">
-�P�O���~�ȉ��Ń��[�V�b�N��p���󂯂܂����B���Ɏ�p�����f�I
+１０万円以下でレーシック手術を受けました。ついに手術を決断！
 </a>
 </li>
 
 <li>
 <span class="date">10.1.22</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-01-22" target="_blank">
-�Z��ŃG�R�|�C���g�̉Ƃ͏Z��[�����P����������I
+住宅版エコポイントの家は住宅ローンが１％も下がる！
 </a>
 </li>
 
 <li>
 <span class="date">10.1.20</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2010-01-20" target="_blank">
-�P�O���~�ȉ��Ń��[�V�b�N��p���󂯂܂����B����I�Ȋ�Ȃ𔭌��I�H
+１０万円以下でレーシック手術を受けました。画期的な眼科を発見！？
 </a>
 </li>
 
 <li>
 <span class="date">10.1.18</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2010-01-18" target="_blank">
-�P�O���~�ȉ��Ń��[�V�b�N��p���󂯂܂����B�܂��͓K�������I
+１０万円以下でレーシック手術を受けました。まずは適応検査！
 </a>
 </li>
 
 <li>
 <span class="date">10.1.15</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-01-15" target="_blank">
-10������Ŕ[���I�@�A�L�����z�[�������̔閧
+10分動画で納得！　アキュラホーム安さの秘密
 </a>
 </li>
 
 <li>
 <span class="date">10.1.6</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-01-06" target="_blank">
-�Z�L�X�C�n�C���͉�̌�ł������I�@��胁�[�J�[�͒��ÏZ��ɒ���
+セキスイハイムは解体後でも売れる！　大手メーカーは中古住宅に注力
 </a>
 </li>
 
 <li>
 <span class="date">10.1.6</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2010-01-06" target="_blank">
-�p�\�R���𓌎łɔ����ւ��I�@�E�B���h�E�Y�V�̕]���́H
+パソコンを東芝に買い替え！　ウィンドウズ７の評価は？
 </a>
 </li>
 
 <li>
 <span class="date">10.1.4</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2009-12-28" target="_blank">
-�V�z�Z��ɂR�O���~�����I �Z��ŃG�R�|�C���g�Ƃ́H
+新築住宅に３０万円相当！ 住宅版エコポイントとは？
 </a>
 </li>
 
 <li>
 <span class="date">09.12.25</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2009-12-24" target="_blank">
-�ؒP���Q�S�D�W���~�̗��R�̓R�����I �A�G���z�[���ˌ����|�[�g�@
+坪単価２４．８万円の理由はコレだ！ アエラホーム突撃レポート　
 </a>
 </li>
 
 <li>
 <span class="date">09.12.21</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2009-12-19" target="_blank">
-�䂪�ƂłP�O��ނ̃E�B���h�[���C�p�[���e�X�g�I���ʂ͂��̎G���ŁB
+我が家で１０種類のウィンドーワイパーをテスト！結果はこの雑誌で。
 </a>
 </li>
 
 <li>
 <span class="date">09.12.15</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2009-12-15" target="_blank">
-�����ꕔ���M�����h�Ƃ𔃂��Ȃ�ŏ��ɓǂ݂����{�h����������܂����I
+私が一部執筆した”家を買うなら最初に読みたい本”が発売されました！
 </a>
 </li>
 
 <li>
 <span class="date">09.12.11</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2009-12-11" target="_blank">
-�_�C���n�E�X�̐V���i�E�V���v�������_���Z��u�W�[���H�E�G�f�B�v�Ƃ́I�H�@
+ダイワハウスの新商品・シンプル＆モダン住宅「ジーヴォ・エディ」とは！？　
 </a>
 </li>
 
 <li>
 <span class="date">09.12.10</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2009-12-07" target="_blank">
-��������́w�[���ł���Ɓx���[�N�V�[�g�\���݂Ɋ��ӁE�����ł��B
+たくさんの『納得できる家』ワークシート申込みに感謝・感激です。
 </a>
 </li>
 
 <li>
 <span class="date">09.12.01</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2009-12-01" target="_blank">
-�ϐ��n�E�X�͒�74���~�I2009�N�x�㔼���Z��[�J�[�ؒP�������L���O
+積水ハウスは坪74万円！2009年度上半期住宅メーカー坪単価ランキング
 </a>
 </li>
 
 <li>
 <span class="date">09.11.26</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2009-11-26" target="_blank">
-�݌v���R�x�����I�w�g���^�z�[���̓S�����g�H�@�x�͂��������B�@
+設計自由度高し！『トヨタホームの鉄骨軸組工法』はいいかも。　
 </a>
 </li>
 
 <li>
 <span class="date">09.11.19</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2009-11-19" target="_blank">
-�u��胁�[�J�[��`�v���������B���������͔����u�V�R��`�v�A���Ȃ��H�H�@
+「大手メーカー主義」だった私。しかし今は半分「天然主義」、かなぁ？？　
 </a>
 </li>
 
 <li>
 <span class="date">09.11.13</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2009-11-13" target="_blank">
-�ؑ��Z������Ă�Ȃ�K�ǁI�u���������钌�E4�����v�����܂��B�@
+木造住宅を建てるなら必読！「長持ちする柱・4か条」教えます。　
 </a>
 </li>
 
 <li>
 <span class="date">09.11.10</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2009-11-10" target="_blank">
-�u�����D�ǁv�ؑ�3�K���Ă��u��������v�|��I�H�@
+「長期優良」木造3階建てが「あっさり」倒壊！？　
 </a>
 </li>
 
 <li>
 <span class="date">09.10.30</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2009-10-30" target="_blank">
-�ؒP��34.3���~�I�@�G�X�E�o�C�E�G���iS��L�j���l�b�g�̔��Z��𔭔�
+坪単価34.3万円！　エス・バイ・エル（SｘL）がネット販売住宅を発売
 </a>
 </li>
 
 
-<!--���m�点�̍X�V�ŏC�����K�v�Ȃ̂͂����̕����܂�-->
+<!--お知らせの更新で修正が必要なのはここの部分まで-->
 
 
-</ul></div></body>
-</html>
+</ul></div>

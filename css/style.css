@@ -322,10 +322,21 @@ strong { font-weight: bold; }
 @media screen and (max-width: 600px) { .adsDabble .adsWrp2.l { margin-bottom: 20px; } }
 .adsDabble .adsWrp2.r { float: right; }
 
+.adsDabble2 { width: 680px; margin: 0 auto 20px; }
+@media screen and (max-width: 600px) { .adsDabble2 { width: 100%; } }
+.adsDabble2 .adsWrp3 { width: 330px; }
+.adsDabble2 .adsWrp3 .tenor { text-align: center; }
+@media screen and (max-width: 600px) { .adsDabble2 .adsWrp3 { width: 100%; } }
+.adsDabble2 .adsWrp3.l { float: left; }
+@media screen and (max-width: 600px) { .adsDabble2 .adsWrp3.l { margin-bottom: 20px; } }
+.adsDabble2 .adsWrp3.r { float: right; }
+
 .adsWrp { margin: 0 auto 15px; }
 .adsWrp .tenor { text-align: center; }
 .adsWrp.adWrap1 { width: 768px; }
 @media screen and (max-width: 600px) { .adsWrp.adWrap1 { width: 100%; } }
+.adsWrp.adWrap2 { width: 160px; }
+@media screen and (max-width: 600px) { .adsWrp.adWrap2 { width: 100%; } }
 
 /* /adsWrp
 -----------------------------------------------------------
