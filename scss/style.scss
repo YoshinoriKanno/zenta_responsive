@@ -546,6 +546,9 @@ $break-small:  600px;
   &.adWrap2 { width: 160px;
     @media screen and (max-width: $break-small) { width: 100%; }
   }
+  &.adWrap3 { width: 680px;
+    @media screen and (max-width: $break-small) { width: 100%; }
+  }
 }
 
 /* /adsWrp
