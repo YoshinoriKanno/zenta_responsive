@@ -215,11 +215,19 @@ $break-small:  600px;
 ------------------------------*/
 #eyeCatch { text-align: center; margin-bottom: 15px;
   a { background-image: url(../img/top/banner.gif); width:974px; margin: 0 13px; height: 160px; display: block;
-    @media screen and (max-width: $break-small) { background-image: url(../img/top/eyecatch.gif); width:320px; height: 210px; -webkit-background-size: 320px; background-size: 320px; margin: 15px auto 0; @include border-radius(8px); @include box-shadow ( rgba(204, 204, 204, 0.5) 0 2px 5px 3px ) ; }
+    @media screen and (max-width: $break-small) { display: none; }
 
     span { display: none; }
   }
 }
+#eyeCatch_sp { display: none;
+  @media screen and (max-width: $break-small) { display: block;
+    p { font-size: 12px;
+      strong { color: red;}
+    }
+  }
+}
+
 /* /eye catch
 ------------------------------*/
 /* books
@@ -499,7 +507,7 @@ $break-small:  600px;
   .objectWrap { width: 730px; margin: 0 auto 15px;
     @media screen and (max-width: $break-small) { width: 100%; }
     object { width: 730px; height: 1030px;
-      @media screen and (max-width: $break-small) { width: 100%; max-width: 320px; height: auto; }
+      @media screen and (max-width: $break-small) { width: 100%; max-width: 100%; height: 100%; }
     }
   }
 }

@@ -78,7 +78,7 @@ strong { font-weight: bold; }
 /* headline1 */
 .headline1wrp { position: relative; width: 100%; }
 .headline1wrp .contact { position: absolute; top: -2px; right: 15px; }
-@media screen and (max-width: 600px) { .headline1wrp .contact { position: inherit; top: 0px; right: 0px; text-align: right; } }
+@media screen and (max-width: 600px) { .headline1wrp .contact { position: inherit; top: 0px; right: 0px; text-align: rßight; } }
 
 .headline1 { position: relative; margin-bottom: 15px; padding: 0 30px 0 20px; width: 60%; background-color: #6b587a; color: #fff; font-weight: bold; font-size: 16px; line-height: 30px; }
 @media screen and (max-width: 600px) { .headline1 { margin-bottom: 0; padding: 0 2%; width: 96%; font-size: 12px; line-height: 1.5; } }
@@ -137,8 +137,13 @@ strong { font-weight: bold; }
 ------------------------------*/
 #eyeCatch { text-align: center; margin-bottom: 15px; }
 #eyeCatch a { background-image: url(../img/top/banner.gif); width: 974px; margin: 0 13px; height: 160px; display: block; }
-@media screen and (max-width: 600px) { #eyeCatch a { background-image: url(../img/top/eyecatch.gif); width: 320px; height: 210px; -webkit-background-size: 320px; background-size: 320px; margin: 15px auto 0; -webkit-border-radius: 8px; -moz-border-radius: 8px; -ms-border-radius: 8px; -o-border-radius: 8px; border-radius: 8px; -webkit-box-shadow: rgba(204, 204, 204, 0.5) 0 2px 5px 3px; -moz-box-shadow: rgba(204, 204, 204, 0.5) 0 2px 5px 3px; box-shadow: rgba(204, 204, 204, 0.5) 0 2px 5px 3px; } }
+@media screen and (max-width: 600px) { #eyeCatch a { display: none; } }
 #eyeCatch a span { display: none; }
+
+#eyeCatch_sp { display: none; }
+@media screen and (max-width: 600px) { #eyeCatch_sp { display: block; }
+  #eyeCatch_sp p { font-size: 12px; }
+  #eyeCatch_sp p strong { color: red; } }
 
 /* /eye catch
 ------------------------------*/
@@ -305,7 +310,7 @@ strong { font-weight: bold; }
 .worksheet .objectWrap { width: 730px; margin: 0 auto 15px; }
 @media screen and (max-width: 600px) { .worksheet .objectWrap { width: 100%; } }
 .worksheet .objectWrap object { width: 730px; height: 1030px; }
-@media screen and (max-width: 600px) { .worksheet .objectWrap object { width: 100%; max-width: 320px; height: auto; } }
+@media screen and (max-width: 600px) { .worksheet .objectWrap object { width: 100%; max-width: 100%; height: 100%; } }
 
 /* /worksheet
 -----------------------------------------------------------
