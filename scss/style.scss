@@ -511,6 +511,12 @@ $break-small:  600px;
     }
   }
 }
+.fileDownloadPc {
+  @media screen and (max-width: $break-small) { display: none; }
+}
+.fileDownloadSp { display: none;
+  @media screen and (max-width: $break-small) { display: block; }
+}
 
 
 /* /worksheet

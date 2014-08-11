@@ -1,5 +1,4 @@
-<div id="info0"><ul><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<div id="info0"><ul>
 
 
 
@@ -311,14 +310,14 @@ TBSテレビ「あさチャン！」にシェアハウスネタで出演しま�
 <li>
 <span class="date">13.9.13</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2013-09-13" target="_blank">
-アルファードハイブリッドで車中泊～ダッチオーブン編～
+アルファードハイブリッドで車中泊〜ダッチオーブン編〜
 </a>
 </li>
 
 <li>
 <span class="date">13.9.11</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2013-09-11" target="_blank">
-アルファードハイブリッドで車中泊～川遊び編～
+アルファードハイブリッドで車中泊〜川遊び編〜
 </a>
 </li>
 
@@ -557,7 +556,7 @@ TBSテレビ「あさチャン！」にシェアハウスネタで出演しま�
 <li>
 <span class="date">13.4.5</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2013-04-05" target="_blank">
-パナソニックＬＸ５　VS　デジタル一眼　～夜間撮影編～
+パナソニックＬＸ５　VS　デジタル一眼　〜夜間撮影編〜
 </a>
 </li>
 
@@ -788,7 +787,7 @@ HEMSの設置に１０万円の補助
 <li>
 <span class="date">11.9.14</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2011-09-14" target="_blank">
-はじめての富士山登頂～実践編
+はじめての富士山登頂〜実践編
 </a>
 </li>
 
@@ -803,7 +802,7 @@ HEMSの設置に１０万円の補助
 <li>
 <span class="date">11.9.2</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-09-02" target="_blank">
-東急ホームズから坪単価29万円台！　～9月11日まで
+東急ホームズから坪単価29万円台！　〜9月11日まで
 </a>
 </li>
 
@@ -817,7 +816,7 @@ HEMSの設置に１０万円の補助
 <li>
 <span class="date">11.8.30</span>
 <a href="http://menchi-yo.blog.so-net.ne.jp/2011-08-30" target="_blank">
-はじめての富士山登頂～準備編
+はじめての富士山登頂〜準備編
 </a>
 </li>
 
@@ -950,7 +949,7 @@ So-netポイントで被災地に募金
 <li>
 <span class="date">11.3.3</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2011-03-03" target="_blank">
-15㌢単位で設計可能！ パナホーム「カサート」
+15a単位で設計可能！ パナホーム「カサート」
 </a>
 </li>
 
@@ -1090,7 +1089,7 @@ So-netポイントで被災地に募金
 <li>
 <span class="date">10.8.6</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-08-06" target="_blank">
-各メーカー体験記の続きが一発で読めます！～まずは積水ハウスから～　
+各メーカー体験記の続きが一発で読めます！〜まずは積水ハウスから〜　
 </a>
 </li>
 
@@ -1266,7 +1265,7 @@ So-netポイントで被災地に募金
 <li>
 <span class="date">10.2.9</span>
 <a href="http://menchi-da.blog.so-net.ne.jp/2010-02-09" target="_blank">
-坪単価４６．７万円～！　ミサワホームから「外部空間を楽しむ」住宅が発売
+坪単価４６．７万円〜！　ミサワホームから「外部空間を楽しむ」住宅が発売
 </a>
 </li>
 
